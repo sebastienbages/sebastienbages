@@ -1,19 +1,14 @@
 <h1 align="center">Bienvenue 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a>
+    <p>📫 sbages.dev@gmail.com</p>
 </p>
 
-<p align="center">
-  <img align="center" alt="photo profile" src="https://github.com/viclafouch/viclafouch/blob/master/img/profile.jpg" />
-</p>
+<p align="center">Je suis un __développeur Web junior__ avec une prédominance pour le côté __backend__. </p>
 
-Je suis un __développeur Web junior__ avec une prédominance pour le côté __backend__. 
-
-💼 __Je suis à la recherche d'un stage entre le 15/02 et le 11/06/21.__
-
-📫 [sbages.dev@gmail.com](sbages.dev@gmail.com)
-[@sebastienbages](www.linkedin.com/in/sebastienbages) <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<p align="center">💼 __Je suis à la recherche d'un stage entre le 15/02 et le 11/06/21.__</p>
 
 ## Mieux me connaître
 
@@ -32,16 +27,11 @@ Je suis actuellement basé à Toulouse et en formation de développeur Web à la
 
 ## Mes compétences :
 
-- PHP <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
-- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-- Javascript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-- HTML / CSS <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/offices/30/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 ## Gestion de projets :
 
-- Git <img src="https://img.icons8.com/color/48/000000/git.png"/>
-- GitHub <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/>
-- Scrum 
+<img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/>
 
 <br/>
 <br/>
