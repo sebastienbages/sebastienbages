@@ -15,7 +15,7 @@ Je suis un autodidacte persévérant, dynamique, perfectionniste et doté d'une 
 
 A Force de recherches personnelles et formations suivis sur [Openclassrooms](https://openclassrooms.com/fr/), j'ai acquis de solides compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
 
-Je suis actuellement basé à Toulouse et en formation de développeur Web à la [Wild Code School de Toulouse](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
+Je suis actuellement basé à Toulouse et en formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
 
 🌱 J'apprends actuellement :
 
