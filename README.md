@@ -21,6 +21,7 @@ Je suis actuellement basé à Toulouse et en formation de développeur Web à la
 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
+- ASP.NET
 - ASP.NET CORE
 - Entity framework
 
