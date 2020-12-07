@@ -9,8 +9,6 @@
 
 ## Mieux me connaître
 
-J'ai débuté ma carrière dans la domotique et l'automatisme industriel riche de diversité techniques et rencontres professionnelles généreuses en partage de connaissances et d'enseignements. Puis, je me suis lancé dans un reconversion proffesionnelle en 2019.
-
 J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance, mon esprit logique et ma passion pour l'informatique née depuis l'enfance. De nature perfectionniste, je souhaite me diriger vers l'approche de développement craftsmanships et m'épanouir dans ce domaine.
 
 A force de travail, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
