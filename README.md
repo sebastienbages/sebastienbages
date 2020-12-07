@@ -15,6 +15,8 @@ A force de travail, recherches personnelles et formations suivis sur différents
 
 Je suis actuellement basé à Toulouse et en formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
 
+Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacter.
+
 🌱 J'apprends actuellement :
 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
@@ -33,7 +35,7 @@ Je suis actuellement basé à Toulouse et en formation de développeur Web à la
 <br/>
 <br/>
 
-Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacter.
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sebastienbages.sebastienbages)
 
