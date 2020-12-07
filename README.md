@@ -28,7 +28,7 @@ Je suis actuellement basé à Toulouse et en formation de développeur Web à la
 
 ## Gestion de projets :
 
-<img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
 
 <br/>
 <br/>
