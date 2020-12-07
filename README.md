@@ -9,11 +9,11 @@
 
 ## Mieux me connaître
 
-Véritable passionné en informatique depuis l'enfance, je pratique depuis ce temps.
+J'ai débuté ma carrière dans la domotique et l'automatisme industriel riche de diversité techniques et rencontres professionnelles généreuses en partage de connaissances et d'enseignements. Puis, je me suis lancé dans un reconversion proffesionnelle en 2019.
 
-Je suis un autodidacte persévérant, dynamique, perfectionniste et doté d'une bonne capacité d'adaptation. J'ai un bon esprit d'équipe et m'intègre facilement au sein d'un groupe.
+J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance, mon esprit logique et ma passion pour l'informatique née depuis l'enfance. De nature perfectionniste, je souhaite me diriger vers l'approche de développement craftsmanships et m'épanouir dans ce domaine.
 
-A Force de recherches personnelles et formations suivis sur [Openclassrooms](https://openclassrooms.com/fr/), j'ai acquis de solides compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
+A force de travail, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
 
 Je suis actuellement basé à Toulouse et en formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
 
@@ -35,6 +35,8 @@ Je suis actuellement basé à Toulouse et en formation de développeur Web à la
 
 <br/>
 <br/>
+
+Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacter.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sebastienbages.sebastienbages)
 
