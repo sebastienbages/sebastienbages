@@ -23,6 +23,7 @@ Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacte
 
 - ASP.NET Core
 - Entity framework
+- Identity framework
 
 ## Mes compétences :
 
