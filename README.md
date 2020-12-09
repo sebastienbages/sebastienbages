@@ -3,7 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a></p>
 <p align="center">📫 sbages.dev@gmail.com</p>
 
-<p align="center">Je suis un développeur Web junior avec une prédominance pour le côté backend</p>
+<p align="center">Je suis un développeur Web fullstack junior</p>
 
 <p align="center">💼 Je suis à la recherche d'un stage entre le 15/02 et le 11/06/21</p>
 
@@ -11,7 +11,7 @@
 
 J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance, mon esprit logique et ma passion pour l'informatique née depuis l'enfance. De nature perfectionniste, je souhaite me diriger vers l'approche de développement craftsmanships et m'épanouir dans ce domaine.
 
-A force de travail, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
+Grâce à mon expérience profesionnelle dans la domotique, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à consulter ci-dessous.
 
 Je suis actuellement basé à Toulouse et en formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
 
