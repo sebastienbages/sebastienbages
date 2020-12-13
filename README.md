@@ -3,7 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a></p>
 <p align="center">📫 sbages.dev@gmail.com</p>
 
-<p align="center">Je suis un développeur Web fullstack junior</p>
+<p align="center">Je suis un développeur Web junior</p>
 
 <p align="center">💼 Je suis à la recherche d'un stage entre le 15/02 et le 11/06/21</p>
 
