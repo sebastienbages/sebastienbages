@@ -13,7 +13,7 @@ J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance
 
 Grâce à mon expérience profesionnelle dans la domotique industrielle, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à découvrir ci-dessous.
 
-Je suis actuellement basé à Toulouse et je viens de réaliser une formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
+Je suis actuellement basé à Toulouse et je viens de terminer une formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
 
 Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacter.
 
