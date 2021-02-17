@@ -9,11 +9,11 @@
 
 ## Mieux me connaître
 
-J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance, mon esprit logique et ma passion pour l'informatique née depuis l'enfance. De nature perfectionniste, je souhaite me diriger vers l'approche de développement craftsmanships et m'épanouir dans ce domaine.
+J'ai choisi le métier de développeur web pour assouvir ma soif de connaissance, mon esprit logique et ma passion pour l'informatique née depuis l'enfance. Respectueux des bonnes pratiques et d'un code "propre", je me positionne sur un développement "craftmanship".
 
-Grâce à mon expérience profesionnelle dans la domotique industrielle, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des compétences en développement Web que j'ai consolidé sur différents projets que je vous invite à découvrir ci-dessous.
+Grâce à mon expérience profesionnelle dans la domotique industrielle, recherches personnelles et formations suivis sur différents supports open source, j'ai acquis des solides compétences en développement Web que j'ai mis en pratique sur différents projets que je vous invite à découvrir ci-dessous.
 
-Je suis actuellement basé à Toulouse et je viens de terminer une formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse).
+Je suis actuellement basé à Toulouse et je viens de terminer une formation de développeur Web à la [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/toulouse). Pendant 5 mois de travail intensif, j'ai participé à deux hackathons et réalisé 3 projets en équipe dont un pour une entreprise Toulousaine.
 
 Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacter.
 
