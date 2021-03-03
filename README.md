@@ -19,7 +19,7 @@ Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacte
 
 🌱 Ma spécialité actuelle :
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>    C#
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
 - ASP.NET Core
 - Entity framework
