@@ -19,7 +19,7 @@ Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacte
 
 🌱 Ma spécialité actuelle :
 
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>    C#
 
 - ASP.NET Core
 - Entity framework
@@ -27,8 +27,7 @@ Réceptif au nouveaux challenges et opportunités, n'hésitez pas à me contacte
 
 🏋 Actuellement je me forme sur :
 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
-Angular
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>   Angular
 
 ## Les technologies que j'ai utilisé :
 
