@@ -7,7 +7,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
-- ASP.NET Core
+- ASP.NET / ASP.NET Core
 - Entity framework
 - Identity framework
 - SQL Server
