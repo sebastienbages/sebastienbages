@@ -10,6 +10,7 @@
 - ASP.NET Core
 - Entity framework
 - Identity framework
+- SQL Server
 
 🏋 Actuellement je me forme sur :
 
