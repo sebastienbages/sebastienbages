@@ -18,22 +18,22 @@
 
 ## Les technologies que j'ai pratiqué :
 
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> Vue.js <br/> 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js <br/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JQuery <br/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap <br/>
-<img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> PHP <br/>
-<img src="https://img.icons8.com/office/40/000000/sql.png"/> SQL <br/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML <br/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS <br/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> Vue.js
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JQuery
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
+<img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> PHP
+<img src="https://img.icons8.com/office/40/000000/sql.png"/> SQL
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 
 ## Les outils que j'ai utilisé :
 
 <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
 <img src="https://img.icons8.com/fluent/48/000000/github.png"/> GitHub
 <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab
-<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> Visiual Studio
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visiaul Studio Code
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> Visual Studio
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visual Studio Code
 SVN
 
 <br/>
@@ -42,20 +42,3 @@ SVN
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sebastienbages.sebastienbages)
-
-
-
-<!--
-**sebastienbages/sebastienbages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
