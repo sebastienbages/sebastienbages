@@ -18,7 +18,14 @@
 
 ## Les technologies que j'ai pratiqué :
 
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> <img src="https://img.icons8.com/office/40/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> Vue.js
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
+<img src="https://img.icons8.com/offices/40/000000/php-logo.png"/> PHP
+<img src="https://img.icons8.com/office/40/000000/sql.png"/> SQL
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> Javascript 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 
 ## Les outils que j'ai utilisé :
 
