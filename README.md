@@ -12,9 +12,9 @@
 - Identity framework
 - SQL Server
 
-🏋 Actuellement je me forme sur :
+<!-- 🏋 Actuellement je me forme sur : -->
 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>   Angular
+<!-- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>   Angular -->
 
 ## Les technologies que j'ai pratiqué :
 
