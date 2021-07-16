@@ -34,7 +34,6 @@
 <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> Visual Studio
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> Visual Studio Code
-SVN
 
 <br/>
 <br/>
