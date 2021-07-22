@@ -8,9 +8,6 @@
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
 - .NET
-- Entity framework
-- Identity framework
-- SQL Server
 
 <!-- 🏋 Actuellement je me forme sur : -->
 
