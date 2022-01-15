@@ -3,11 +3,11 @@
 <p align="center"><a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a></p>
 <p align="center">📫 sbages.dev@gmail.com</p>
 
-🌱 Ma spécialité actuelle :
+<!-- 🌱 Ma spécialité actuelle :
 
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 
-- .NET
+- .NET -->
 
 <!-- 🏋 Actuellement je me forme sur : -->
 
