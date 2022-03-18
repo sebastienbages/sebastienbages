@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue 👋</h1>
+<h1 align="center">Hi There 👋</h1>
 
 <p align="center"><a href="https://www.linkedin.com/in/sebastienbages">Linkedin</a></p>
 <p align="center">📫 sbages.dev@gmail.com</p>
